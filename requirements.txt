@@ -1,0 +1,14 @@
+Cython==0.29.21
+librosa==0.8.0
+matplotlib==3.3.2
+numpy==1.18.5
+scipy==1.5.2
+tensorboard==2.3.0
+torch==1.10.0
+torchvision==0.7.0
+Unidecode==1.1.1
+tqdm==4.62.2
+pydub==0.25.1
+six==1.16.0
+scipy==1.5.2
+phonemizer==3.2.1
